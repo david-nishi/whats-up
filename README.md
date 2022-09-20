@@ -11,7 +11,7 @@ Check out src/index.js, then come back here.
 - Use the `node` command in a terminal of your choice to run this code.
 - Make some changes to the code in your local machine, check if they work, and commit those changes with `git`.
 - Push those changes back up to your GitHub account.
-- Open a pull request in GitLab with your changes from your fork to this repo.
+- In GitHub, open a pull request with your changes from your fork to this repo, and document the changes you made.
 
 ## Notes
 - All of this is hard, if you've not seen it before.
