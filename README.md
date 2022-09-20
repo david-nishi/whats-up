@@ -1,11 +1,11 @@
-# whats-up
+# Hey Kevin!
 
-Hey Kevin! Check out src/index.js, then come back here.
+Check out src/index.js, then come back here.
 
-## The challenge
+## The Challenge
 - What does this code do?
 
-## Stretch goals
+## Stretch Goals
 - Fork this repo to your own GitHub account.
 - Clone your fork to your local machine.
 - Use the `node` command in a terminal of your choice to run this code.
